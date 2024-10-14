@@ -8,7 +8,8 @@ easier
 
 #OS:
 I use Debian Linux as my Main 
-operating system 
+operating system but my favourite
+is Temple OS 
 
 #programming:
 Programming languages I know:
@@ -16,6 +17,7 @@ Bash
 Python 
 C 
 C#
+HolyC
 Assembly(Basics)
 
 #Easter Roman Empire🔛🔝
