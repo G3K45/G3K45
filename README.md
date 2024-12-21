@@ -1,23 +1,18 @@
-#start:
+# start
 Hi I am G3K45 
 
-#tools:
-I create Bash and Python scripts
-to make some peoples life
-easier
+# Myself
+I am Litteraly Terry Andrew Davis \n
+Fan of Temple OS,BSD,Linux and open-source software
 
-#OS:
-I use Debian Linux as my Main 
-operating system but my favourite
-is Temple OS 
+# OS
+I use Debian,Temple OS as my main operating systems
 
-#programming:
-Programming languages I know:
-Bash 
-Python 
-C 
+# PL
+Programming languages:
+Python
+Bash
+Powershell
+C
 C#
-HolyC
 Assembly(Basics)
-
-#Easter Roman Empire🔛🔝
